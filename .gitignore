@@ -1,0 +1,17 @@
+#Directories
+**/**/Lib
+**/**/Include
+**/**/Scripts
+**/**/share
+**/**/etc
+
+#Env
+**/**/.env
+
+
+#config
+**/**/pyvenv.cfg
+
+
+
+
